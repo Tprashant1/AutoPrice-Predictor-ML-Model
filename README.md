@@ -20,7 +20,6 @@ Car Price Prediction is a Machine Learning project that estimates the price of a
 ## 📊 Dataset
 The dataset contains crucial features that influence car prices, including:
 ✔ **Year** – Manufacturing year of the car
-
 ✔ **Mileage** – Fuel efficiency (km per liter or miles per gallon)
 ✔ **Fuel Type** – Petrol, Diesel, Electric, etc.
 ✔ **Transmission** – Manual or Automatic
